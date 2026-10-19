@@ -1,11 +1,10 @@
-# 📱 iPhone Camera Roll → PC Backup via iOS Shortcuts
+﻿# 📱 iPhone Camera Roll → PC Backup via iOS Shortcuts
 
 > **Copy photos and videos from your iPhone Camera Roll to a Windows PC folder — by date range — over Wi-Fi. No iTunes. No iCloud. No third-party apps.**
 
 ![iOS](https://img.shields.io/badge/iOS-18%2B%20%7C%20iOS%2026-black?logo=apple&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20PC-blue?logo=windows&logoColor=white)
 ![Method](https://img.shields.io/badge/Transfer-SMB%20over%20Wi--Fi-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
 
 ---
@@ -198,7 +197,6 @@ iphone-camera-roll-to-pc/
 ├── README.md          ← You are here — project overview
 ├── GUIDE.md           ← Full step-by-step shortcut build guide
 ├── TROUBLESHOOTING.md ← Standalone error reference
-└── LICENSE            ← MIT License
 ```
 
 ---
@@ -221,9 +219,11 @@ Contributions are welcome! If you find a new error, a better action sequence, or
 
 ---
 
-## 📄 License
+## © Copyright
 
-MIT License — free to use, share, and modify.
+© 2026 Naveed Ali Mohammed. All Rights Reserved.
+
+This guide and all associated content in this repository may not be reproduced, distributed, or used in any form without explicit written permission from the author.
 
 ---
 
@@ -232,3 +232,4 @@ MIT License — free to use, share, and modify.
 Give the repo a **star** ⭐ — it helps others find it too.
 
 > Built from real troubleshooting. The `wfphotomediaContentItem` error took hours to figure out — now it'll take you 30 seconds.
+
