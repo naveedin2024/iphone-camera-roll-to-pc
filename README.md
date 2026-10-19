@@ -221,12 +221,6 @@ Contributions are welcome! If you find a new error, a better action sequence, or
 
 ---
 
-## 📄 License
-
-MIT License — free to use, share, and modify.
-
----
-
 ## ⭐ If this helped you
 
 Give the repo a **star** ⭐ — it helps others find it too.
